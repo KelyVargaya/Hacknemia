@@ -1,0 +1,74 @@
+.volver{
+    font-size: 4em;
+}
+form, .form {
+  border: 2px solid #df2727;
+  width: 80%; 
+  margin: 20px auto;
+  border-radius: 18px;
+  padding: 20px;  
+}
+.formulario{
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 120%;
+}
+
+.form{
+  width: 60%;
+}
+form .label{
+  color: rgb(75, 61, 61);
+  font-size: 1em;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+form .form-group .form-control {
+  background-color: #ffffff;
+  color: #4d4d4d;
+  font-size: 16px;
+  width: 100%;
+  height: 50px;
+  border: 2px solid #df2727;
+  border-radius: 18px;
+  box-shadow: none;
+}
+form .form-group .form-control:disabled {
+  border-color: #4d4d4d;
+  cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+  .form {
+    width: 90% !important;   
+  }
+  form{
+    margin: 5px auto !important;
+    width: 95% !important;
+    padding: 5px 10px; 
+  }
+  form .form-group .form-control {
+    color: #4d4d4d;
+    font-size: 14px;
+    width: 100%;
+    height: 40px;
+    border: 2px solid #df2727;
+    border-radius: 12px;
+  }
+  form .form-group .form-control:disabled {
+    margin-top: 10px;
+  }
+}
+.receta{
+  border: 2px solid #4d4d4d;
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 15px 20px;
+}
+
+.receta p{
+  font-size: 1.3em;
+}
+
+

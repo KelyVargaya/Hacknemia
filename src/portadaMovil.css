@@ -1,0 +1,32 @@
+.home{
+     background: #D50000;
+     padding-bottom: 20px;
+}
+
+*{
+    font-family: 'Courgette', cursive;
+}
+
+.login-enviar {
+    background: #B71C1C;
+    height: 70px;
+    width: 90%;
+    border: 2.5px solid white;
+    border-radius: 30px;
+    font-size: 20pt;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+.login-enviar:hover {
+    background: white;
+    color: #B71C1C;
+}
+
+.home img{
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+}

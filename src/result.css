@@ -1,0 +1,42 @@
+.encabezado{
+    background: #D50000;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.contenido{
+    top: 150px;
+}
+
+.contenido h1{
+    color: black;
+}
+
+.tipo{
+     background: #D50000;
+     padding: 10px;
+     top: 30px;
+     color: white;
+     margin: 40px 0;
+     border-radius: 6px;
+    font-size: 2em;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background: #D50000;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+    transition: all .2s ease-in-out;
+    
+}
+
+.circle:hover { transform: scale(1.1); }

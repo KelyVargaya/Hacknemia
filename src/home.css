@@ -1,0 +1,139 @@
+.home{
+    background: #D50000;
+    font-family: 'Courgette', cursive;
+}
+.cusiva{
+   font-family: 'Courgette', cursive;
+}
+.btn-login {
+ margin-top: 350px;
+}
+
+.btnMapa{
+   margin-top: 15px;
+   font-size: 13pt;
+   margin-left: 10px;
+}
+
+.btnMapa{
+    margin-top: 15px;
+    font-size: 13pt;
+    margin-left: 10px;
+}
+.btnMapa:hover{
+    background: #D50000;
+    border: 1px;
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+.login-enviar {
+   background: #B71C1C;
+   height: 70px;
+   width: 90%;
+   border: 2.5px solid white;
+   border-radius: 30px;
+   font-size: 20pt;
+   font-weight: bold;
+   color: #ffffff;
+   margin-top: 125px;
+   line-height: 50px;
+   margin-bottom: 190px;
+   font-family: 'Courgette', cursive;
+}
+
+.login-enviar:hover {
+   background: #ffffff;
+   color: #B71C1C;
+   font-family: 'Courgette', cursive;
+}
+
+
+.buto{
+   padding: 20px;
+   font-family: 'Courgette', cursive;
+}
+
+.anchor{
+   margin-right: 60px;
+   height: 70px;
+   font-family: 'Courgette', cursive;
+}
+
+.buto a{
+   text-decoration: none;
+   height: 70px;
+   padding: 20px;
+   border-radius: 30px;
+   font-size: 13pt;
+   font-family: 'Courgette', cursive;
+}
+
+.buto a:hover{
+   text-decoration: none;
+   background: #B71C1C;
+   color: white;
+   font-family: 'Courgette', cursive;
+}
+
+.menu{
+    background: white;
+    margin-bottom: 0px;
+    box-shadow: 4px 5px 10px black;
+    width: 100%;
+    color: black;
+    font-family: 'Courgette', cursive;
+   
+}
+
+.brand{
+    padding: 0px;
+    height: 93px;
+}
+
+.log{
+   text-align: left;
+   font-family: 'Courgette', cursive;
+}
+
+a{
+   color: black;
+   font-weight: bold;
+   font-family: 'Courgette', cursive;
+}
+
+.titulo{
+   margin-top: 170px;
+   font-family: 'Courgette', cursive;
+}
+.functionality h1{
+    color: #D50000;
+    font-family: 'Courgette', cursive;
+}
+
+.functionality{
+    margin-top: 80px;
+    font-family: 'Courgette', cursive;
+}
+
+.functionality p{
+    font-weight: bold;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+
+.functionality img {
+    margin: 0 auto;
+    width: 50%;
+    font-family: 'Courgette', cursive;
+}
+
+.play img{
+   width: 15%;
+   font-family: 'Courgette', cursive;
+}
+
+.steps{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
