@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import './result.css';
 import './App.css'
-import {
-	NavLink
-} from 'react-router-dom'
+import {NavLink} from 'react-router-dom'
 import logo from './img/logo.png'
 import { Grid } from 'react-bootstrap';
 import HeaderApp from './Header.js';
