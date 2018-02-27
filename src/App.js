@@ -18,7 +18,7 @@ const Apli = ({ model }) => {
 
       <Switch>
         <Route path="/Hacknemia"
-          render={() => <Redirect to={'/home'} />} />
+          render={() => <Redirect to={'/Hacknemia'} />} />
         <Route path="/home" render={() => <Home />} />
         <Route path="/form" render={() => <FormDiagnostic model={model} />} />
         <Route path="/result" render={() => <Result model={model} />} />
